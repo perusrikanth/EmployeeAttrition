@@ -2,7 +2,7 @@
 
 Practice project for building Github profile.
 
-##ANALYTICS WITH ATTRITION PREDICTION
+## ANALYTICS WITH ATTRITION PREDICTION
 
 ![image.png](images/HRTalent.png)
 
@@ -13,7 +13,7 @@ Every year a lot of companies hire a number of employees. The companies invest�
 - But where HR Analytics fit in this?
 - and is it just about improving the performance of employees?
 
-### [](https://github.com/siddband/EmployeeAttrition#data)DATA
+### [Data](https://github.com/siddband/EmployeeAttrition#data)DATA
 
 | Column Name | Description |
 
