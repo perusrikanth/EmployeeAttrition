@@ -2,6 +2,8 @@
 
 Practice project for building Github profile.
 
+ANALYTICS WITH ATTRITION PREDICTION
+
 ![image.png](images/HRTalent.png)
 
 ### INTRODUCTION
@@ -13,47 +15,47 @@ Every year a lot of companies hire a number of employees. The companiesÂ investÂ
 
 ### [](https://github.com/siddband/EmployeeAttrition#data)DATA
 
-Column NameDescription
+|Column Name | Description |
 
  
 
-AGE Numerical Value
+|AGE | Numerical Value |
 
  
 
-ATTRITION Employee leaving the Company (0=no, 1=yes)
+|ATTRITION | Employee leaving the Company (0=no, 1=yes) |
 
  
 
-BUSINESS TRAVEL (1= No Travel, 2= Travel Frequency, 3= Travel rarely)
+|BUSINESS TRAVEL | (1= No Travel, 2= Travel Frequency, 3= Travel rarely) |
 
  
 
-JOB ROLE (1=HC REP, 2=HR, 3=LAB TECHNICIAN, 4=MANAGER, 5= MANAGING DIRECTOR, 6= REASEARCH DIRECTOR, 7= RESEARCH SCIENTIST, 8=SALES EXECUTIEVE, 9= SALES REPRESENTATIVE)
+|JOB ROLE | (1=HC REP, 2=HR, 3=LAB TECHNICIAN, 4=MANAGER, 5= MANAGING DIRECTOR, 6= REASEARCH DIRECTOR, 7= RESEARCH SCIENTIST, 8=SALES EXECUTIEVE, 9= SALES REPRESENTATIVE) |
 
  
 
-MARITAL STATUS (1=DIVORCED, 2=MARRIED, 3=SINGLE)
+|MARITAL STATUS | (1=DIVORCED, 2=MARRIED, 3=SINGLE)|
 
  
 
-GENDER (1=FEMALE, 2=MALE)
+|GENDER | (1=FEMALE, 2=MALE) |
 
  
 
-OVER 18 1=YES, 2=NO)
+|OVER 18 | (1=YES, 2=NO) |
 
  
 
-OVERTIME (1=NO, 2=YES)
+|OVERTIME | (1=NO, 2=YES) |
 
  
 
-EDUCATION FIELD (1=HR, 2=LIFE SCIENCES, 3=MARKETING, 4=MEDICAL SCIENCES, 5=OTHERS, 6= TEHCNICAL)
+|EDUCATION FIELD | (1=HR, 2=LIFE SCIENCES, 3=MARKETING, 4=MEDICAL SCIENCES, 5=OTHERS, 6= TEHCNICAL) |
 
  
 
-DEPARTMENT (1=HR, 2=R&D, 3=Sales)
+|DEPARTMENT | (1=HR, 2=R&D, 3=Sales) |
 
 ### [](https://github.com/siddband/EmployeeAttrition#project-analysis)PROJECT ANALYSIS
 
