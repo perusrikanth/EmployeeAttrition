@@ -1,2 +1,3 @@
 # EmployeeAttrition
-Project on Employee Attrition
+![image.png](images/HRTalent.png)
+
