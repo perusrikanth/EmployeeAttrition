@@ -1,8 +1,6 @@
-# Employee Attrition
+# ANALYTICS WITH ATTRITION PREDICTION
 
 Practice project for building Github profile.
-
-## ANALYTICS WITH ATTRITION PREDICTION
 
 ![image.png](images/HRTalent.png)
 
