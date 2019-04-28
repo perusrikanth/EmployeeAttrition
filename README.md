@@ -27,17 +27,17 @@ Every year a lot of companies hire a number of employees. The companiesÂ investÂ
 | EDUCATION FIELD | (1=HR, 2=LIFE SCIENCES, 3=MARKETING, 4=MEDICAL SCIENCES, 5=OTHERS, 6= TEHCNICAL) |
 | DEPARTMENT | (1=HR, 2=R&D, 3=Sales) |
 
-### [](https://github.com/perusrikanth/EmployeeAttrition#project-analysis)PROJECT ANALYSIS
+### [PROJECT ANALYSIS](https://github.com/perusrikanth/EmployeeAttrition#project-analysis)
 
-DescriptionAnalysis
+| Description | Analysis |
 
- hr_data.head
+| hr_data.head | ![image.png](images/head.png)
 
- dummies
+| dummies | ![image.png](images/dummies.png) |
 
- final
+| final | ![image.png](images/final.png) |
 
-#### [](https://github.com/perusrikanth/EmployeeAttrition#feature-importance)FEATURE IMPORTANCE
+#### [FEATURE IMPORTANCE](https://github.com/perusrikanth/EmployeeAttrition#feature-importance)
 
 - We saw how we can avoid using correlated values and why it is important not to use those while modelling.
 - We used Random forest and learned how it can be very advantageous over other available machine learning algorithm.
