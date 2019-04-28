@@ -13,8 +13,9 @@ Every year a lot of companies hire a number of employees. The companies invest�
 - But where HR Analytics fit in this?
 - and is it just about improving the performance of employees?
 
-### [DATA](https://github.com/siddband/EmployeeAttrition#data)
+### [DATA](https://github.com/perusrikanth/EmployeeAttrition#data)
 | Column Name | Description |
+| --- | --- |
 | AGE | Numerical Value |
 | ATTRITION | Employee leaving the Company (0=no, 1=yes) |
 | BUSINESS TRAVEL | (1= No Travel, 2= Travel Frequency, 3= Travel rarely) |
@@ -26,7 +27,7 @@ Every year a lot of companies hire a number of employees. The companies invest�
 | EDUCATION FIELD | (1=HR, 2=LIFE SCIENCES, 3=MARKETING, 4=MEDICAL SCIENCES, 5=OTHERS, 6= TEHCNICAL) |
 | DEPARTMENT | (1=HR, 2=R&D, 3=Sales) |
 
-### [](https://github.com/siddband/EmployeeAttrition#project-analysis)PROJECT ANALYSIS
+### [](https://github.com/perusrikanth/EmployeeAttrition#project-analysis)PROJECT ANALYSIS
 
 DescriptionAnalysis
 
@@ -36,10 +37,10 @@ DescriptionAnalysis
 
  final
 
-#### [](https://github.com/siddband/EmployeeAttrition#feature-importance)FEATURE IMPORTANCE
+#### [](https://github.com/perusrikanth/EmployeeAttrition#feature-importance)FEATURE IMPORTANCE
 
 - We saw how we can avoid using correlated values and why it is important not to use those while modelling.
 - We used Random forest and learned how it can be very advantageous over other available machine learning algorithm.
 - Most of all we found factors which are most important to employees and if are not fulfilled might lead to Attrition.
 
-[Jupyter Notebook](https://github.com/siddband/EmployeeAttrition/blob/master/HR_Analytics.ipynb)
+[Jupyter Notebook](https://github.com/perusrikanth/EmployeeAttrition/blob/master/HR_Analytics.ipynb)
